@@ -1,0 +1,9 @@
+npx create-react-app linkedin-clone --template redux
+
+Create firebase storage and authentication
+Registr a app for firebase
+
+npm install -g firebase-tools
+
+npm install @material-ui/core
+npm install @material-ui/icons
